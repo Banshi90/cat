@@ -1374,7 +1374,7 @@ return (
       borderRadius: '8px'
     }}>
     <Text style={{ fontSize: 13, color: 'var(--vkui--color_text_secondary)', lineHeight: 1 }}>
-      Калькулятор в режиме тестирования
+      🔵 Калькулятор в режиме тестирования
     </Text>
     </Div>
     {/* ========================================== */}
