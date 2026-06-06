@@ -1352,12 +1352,12 @@ return (
   >
     <PanelHeader separator={false}>
       <div style={{ 
-        fontSize: 'clamp(22px, 7vw, 28px)', 
+        fontSize: 'clamp(20px, 6vw, 28px)',
         fontWeight: 'bold', 
-        textAlign: 'left',
         color: 'var(--vkui--color_text_primary)',
         padding: '12px 16px',
-        lineHeight: '1.2'
+        width: '100%',
+        boxSizing: 'border-box'
       }}>
         🧬 Калькулятор MCO
       </div>
