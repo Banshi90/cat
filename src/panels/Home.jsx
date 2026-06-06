@@ -1373,11 +1373,9 @@ return (
       backgroundColor: 'var(--vkui--color_background_secondary)', 
       borderRadius: '8px'
     }}>
-      <Text style={{ fontSize: 13, color: 'var(--vkui--color_text_secondary)', lineHeight: '18px' }}>
-        🔵 <b>Калькулятор в режиме тестирования</b>
-      </Text>
-    </Div>
-
+    <Text style={{ fontSize: 13, color: 'var(--vkui--color_text_secondary)', lineHeight: 1 }}>
+      Калькулятор в режиме тестирования
+    </Text>
     </Div>
     {/* ========================================== */}
 
