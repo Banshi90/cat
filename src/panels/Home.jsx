@@ -1375,11 +1375,8 @@ return (
     }}>
       <Text style={{ fontSize: 13, color: 'var(--vkui--color_text_secondary)', lineHeight: '18px' }}>
         🔵 <b>Калькулятор в режиме тестирования</b>
-        {' '}Если вы обнаружили ошибки, напишите: 
-        <a href="https://vk.com/mcowcf" target="_blank" rel="noopener noreferrer" style={{ color: '#3B82F6', textDecoration: 'underline' }}>
-          vk.com/mcowcf
-        </a>
       </Text>
+    </Div>
 
     </Div>
     {/* ========================================== */}
