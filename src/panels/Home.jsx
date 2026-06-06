@@ -1352,7 +1352,7 @@ return (
   >
     <PanelHeader separator={false}>
       <div style={{ 
-        fontSize: '28px', 
+        fontSize: 'clamp(16px, 4vw, 24px)',
         fontWeight: 'bold', 
         textAlign: 'left',
         color: 'var(--vkui--color_text_primary)',
